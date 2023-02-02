@@ -1,0 +1,121 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.about-sec{
+	       padding:60px 0;
+		   
+		   
+}
+
+.container{
+	
+	       width:85%;
+		   margin:auto;
+}
+
+
+.row{
+	  display:flex;
+	  flex-wrap:wrap;
+	  
+}
+.icon{
+	    font-size:50px;
+		color:#0e23e6;
+		margin-bottom:20px;
+		text-align:center;
+		background-color:#f1f6fe;
+		display:inline-block;
+		border-radius:5%;
+		padding:20px;
+		border:1px solid #deebfd;
+}
+.col{
+	 width:33.3%;
+	 padding:12px;
+}
+.icon-box{
+	       text-align:center;
+		   border:1px solid #e2eefd;
+		   padding:80px 20px;
+		   transition:all ease-in-out 0.3s;
+		   background-color:#fff;
+		   
+}
+div .icon-box:hover{ 
+                  border-color:#fff;
+				 
+				   box-shadow:0px 0 25px 0 rgb(16 110 234 / 10%);
+				   
+				   background-color:white;
+}
+div .icon:hover{ 
+                  border-color:#fff;
+				  border:1px solid blue;
+				  
+				  
+				  
+}
+.head{ 
+       text-align:center;
+}
+.button{
+	     background-color:lightblue;
+		 border-radius:40%;
+		 font-size:20px;
+}
+.h2{
+	font-style:italic;
+	color:blue;
+	font-weight:600px;
+}
+.h2-1{
+	font-style:italic;
+	color:black;
+}
+	
+span{
+                color:skyblue;
+}
+.para{
+	text-align:center;
+	padding-bottom:30px;
+}
+h2{
+	 padding-bottom:20px;
+	 padding-top:20px;
+}
+.icon-box h2:hover{
+	color:#106eea;
+}
+
+.icon-box-1:hover{ 
+                  border-color:#fff;
+				 
+				   
+				   
+				   background-color:white;
+}
+.service{
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    padding: 8px 20px;
+    margin: 0;
+    background: #e7f1fd;
+    color: #106eea;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+	
+}
+.size{
+	font-size:32px;
+	font-weight:700;
+}
+.icon-box p{line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
